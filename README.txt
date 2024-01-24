@@ -1,5 +1,5 @@
 Data Files for the paper:
-S Babaei, LA Grieves, BJ Evans, JS Quinn. Population structure in an inbreeding communal bird. Plos One Genetics. 
+S Babaei, LA Grieves, BJ Evans, JS Quinn. Population structure in an inbreeding communal bird.
 
 Files:
 NEW_TAWH_OTOKIA.arp: This file includes chicks. Arp file used for Arlequin.
