@@ -8,3 +8,5 @@ tawhotok_breedinggroup_nochicks.arp: only Adults, no chicks. Separated by breedi
 
 tawh_nochicks_coancestry.txt: 
 otokia_nochicks_coancestry.txt: Both input files for COANCESTRY analyses. Noth and South populations, respectively.  
+
+Zip files are electropherograms. These were scored by hand for the data used in this manuscript. 
