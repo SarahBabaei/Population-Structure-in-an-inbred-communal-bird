@@ -11,6 +11,8 @@ otokia_nochicks_coancestry.txt: Both input files for COANCESTRY analyses. Noth a
 
 .pl file: Custom Perl script mentioned in paper
 
+Distance_btwn_BreedingGroups.txt: Matrix of distance between North Island Breeding Groups
+
 Zip files are electropherograms. These were scored by hand for the data used in this manuscript. 
 
 Pukeko.R: R file used to make PCA used in this manuscript. install all libraries before loading.
